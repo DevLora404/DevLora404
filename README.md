@@ -2,8 +2,8 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="![Uploading image.png…]()
-"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+
 
 <h2> / about me /</h2>
   
