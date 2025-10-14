@@ -12,5 +12,7 @@ Hello, I'm Lora!
 🍜 Feel free to send me a private message or email if you have any questions, suggestions, or comments.
 </pre>
 <hr>
-  
+
+<h3 align="left">Languages and Tools</h3>
+
 Last Edited on: 14/10/25
