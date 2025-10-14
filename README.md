@@ -7,14 +7,10 @@ Hello, I'm Lora!
 
 <hr>
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+💻 Front-end developer.
+📚 Computer Systems and Software Engineering Student.
+🚩 
+😃 Feel free to send me a private message or email if you have any questions, suggestions, or comments.
 </pre>
 <hr>
   
