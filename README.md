@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://ac-o.namu.la/20231125sac/95d27204e0893fe5636249dd3cca89a511520cba0e705cc764336c514172f1ba.webp?expires=1760480776&key=hsDbZENan_iyw3qckn2jIg&type=orig"> </p>
 
 <div>
 
