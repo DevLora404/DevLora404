@@ -1,6 +1,6 @@
 <h1 align="center">
 Hello, I'm Lora!
-	<a href="https://github.com/Bouaskaoun" target="_self">
+	<a href="https://github.com/DevLora404" target="_self">
 		<img src="https://cdna.artstation.com/p/assets/images/images/049/630/754/original/yuni_lamu-coffee-pixel-export.gif?1653345973" width="50">
 	</a>
 </h1>
