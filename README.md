@@ -1,21 +1,15 @@
-<h1 align="center"><b>Hello there! I'm Lora! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Software and Computer Systems Engineering Student</h3>
+<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
 
-<!-- For me -->
-I'm a **Front-end dev**, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day.
-<br>
+<div>
 
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h2> / about me /</h2>
+  
+- ⭐ currently working on **web-development**
+- 💀 mostly working on **private repositories**
+- 👾 a **student** working his way around things
+  
+<h2> / current skills / </h2>
+  
 Last Edited on: 14/10/25
