@@ -1,7 +1,7 @@
 <h1 align="center">
 Hello, I'm Lora!
 	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif" width="30">
+		<img src="https://cdna.artstation.com/p/assets/images/images/049/630/754/original/yuni_lamu-coffee-pixel-export.gif?1653345973" width="30">
 	</a>
 </h1>
 
