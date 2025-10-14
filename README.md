@@ -7,7 +7,9 @@
 
 <h2>About me</h2>
 -  currently working on **web-development**
+<hr>
 -  mostly working on **private repositories**
+<hr>
 - Studying and updating my projects here
   
 <h2> / current skills / </h2>
