@@ -1,17 +1,22 @@
+<h1 align="center">
+Hello, I'm Lora!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif" width="30">
+	</a>
+</h1>
 
-<div>
-### Hi there 👋
-
-<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/originals/f0/4b/a9/f04ba908d1744c429505ac5239c35e63.gif"/>
-
-
-<h2>About me</h2>
--  currently working on **web-development**
 <hr>
--  mostly working on **private repositories**
+
+<pre>
+💻 I am mainly a Backend Developer
+📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
+📝 I have a strong interest in Software Engineering and Design
+🛠️ Currently working on a fintech solution with @PesaLock
+🌱 Learning about efficient designs for scalable systems
+🌟 Main language: Java 😁
+🚩 Interested in Server Side Application development
+😃 I look forward to collaborate on impactful projects
+</pre>
 <hr>
-- Studying and updating my projects here
-  
-<h2> / current skills / </h2>
   
 Last Edited on: 14/10/25
