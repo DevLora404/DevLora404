@@ -6,7 +6,6 @@ Hello, I'm Lora!
 </h1>
 
 <hr>
-
 <pre>
 💻 I am mainly a Backend Developer
 📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
