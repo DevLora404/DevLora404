@@ -1,5 +1,3 @@
-<p align = center ><img src="<img width="414" height="278" alt="image" src="https://github.com/user-attachments/assets/d99be76a-36b6-455f-80e3-6bcdd46b9bf1" />
-"> </p>
 
 <div>
 ### Hi there 👋
