@@ -20,15 +20,15 @@ Hello, I'm Lora!
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="50" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="50" /></span>
 &nbsp;
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="50"/>
 </span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="50"/>
 </span>
 &nbsp;
 <br>
@@ -36,8 +36,7 @@ Hello, I'm Lora!
   
   - <h5> Currently learning </h5>
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
-    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
-  
+	
 - <h4> Frameworks & Libraries </h4>
   <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
   <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
