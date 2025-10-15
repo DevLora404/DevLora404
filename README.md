@@ -8,6 +8,7 @@ Hello, I'm Lora!
 <hr>
 <pre>
 🍵 Front-end developer.
+🦊 Learning Back- End.
 ☕ Computer Systems and Software Engineering Student.
 🍜 Feel free to send me a private message or email if you have any questions, suggestions, or comments.
 </pre>
