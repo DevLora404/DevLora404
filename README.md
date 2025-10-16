@@ -46,5 +46,4 @@ Hello, I'm Lora!
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://ac-o.namu.la/20231125sac/95d27204e0893fe5636249dd3cca89a511520cba0e705cc764336c514172f1ba.webp?expires=1760480776&key=hsDbZENan_iyw3qckn2jIg&type=orig" />
 Last Edited on: 10/14/25
