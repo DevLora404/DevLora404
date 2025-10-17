@@ -46,5 +46,5 @@ Hello, I'm Lora!
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <div class="tenor-gif-embed" data-postid="8647393960584411299" data-share-method="host" data-aspect-ratio="1.84444" data-width="100%"><a href="https://tenor.com/view/limbus-company-faust-gif-8647393960584411299">Limbus Company Faust Meme</a>from <a href="https://tenor.com/search/limbus+company+faust-memes">Limbus Company Faust Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="2715192673378605221" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/limbus-limbus-company-faust-loading-thinking-gif-2715192673378605221">Limbus Limbus Company GIF</a>from <a href="https://tenor.com/search/limbus-gifs">Limbus GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 Last Edited on: 10/14/25
