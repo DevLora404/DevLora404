@@ -46,5 +46,5 @@ Hello, I'm Lora!
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <img src = "https://limbuscompany.wiki.gg/index.php?curid=5345" />
+  <img src = "https://ac-o.namu.la/20250913sac/8c7a9404ecef9ed49ca8375bffe04423da0378cb403cb4ad3aa388fa215d7b1e.png?expires=1760664216&key=I0IeTumWjqGVkhUguxjS1g&type=orig" />
 Last Edited on: 10/14/25
