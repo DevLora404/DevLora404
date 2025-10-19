@@ -46,4 +46,5 @@ Hello, I'm Lora!
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
+  <a href="https://www.zerochan.net/4273626"><img src="https://s3.zerochan.net/Faust.%28Limbus.Company%29.240.4273626.jpg" alt="Faust (Limbus Company)" /></a>
 Last Edited on: 10/14/25
