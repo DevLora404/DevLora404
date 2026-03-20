@@ -4,7 +4,6 @@ Hello, I'm Lora!
 		<img src="https://cdna.artstation.com/p/assets/images/images/049/630/754/original/yuni_lamu-coffee-pixel-export.gif?1653345973" width="50">
 	</a>
 </h1>
-
 <hr>
 <pre>
 🍵 Front-end developer.
@@ -13,7 +12,6 @@ Hello, I'm Lora!
 🍜 Feel free to send me a private message or email if you have any questions, suggestions, or comments.
 </pre>
 <hr>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools  
 - <h4> Languages </h4>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="100" /></span>
@@ -22,7 +20,7 @@ Hello, I'm Lora!
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="100" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="100" /></span>
+<span><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="100" /></span>
 &nbsp;
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="100"/>
 </span>
@@ -32,7 +30,6 @@ Hello, I'm Lora!
 </span>
 &nbsp;
 <br>
-
   
   - <h5> Currently learning </h5>
     <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
@@ -48,3 +45,4 @@ Hello, I'm Lora!
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
  <img src = "https://i.pinimg.com/originals/d8/9f/a3/d89fa383107571201d3b2673e4e9a51b.gif" />
 Last Edited on: 10/14/25
+```
